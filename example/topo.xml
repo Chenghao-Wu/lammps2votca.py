@@ -1,0 +1,1128 @@
+<topology name='polystyrene'>
+<molecules>
+<clear  />
+<molecule name='polystyrene' nmols='29' nbeads='162'>
+<bead name ='1' type='1' mass='12.011' q='0.0' />
+<bead name ='2' type='3' mass='12.011' q='0.0' />
+<bead name ='3' type='7' mass='12.011' q='0.0' />
+<bead name ='4' type='5' mass='12.011' q='0.0' />
+<bead name ='5' type='5' mass='12.011' q='0.0' />
+<bead name ='6' type='5' mass='12.011' q='0.0' />
+<bead name ='7' type='5' mass='12.011' q='0.0' />
+<bead name ='8' type='5' mass='12.011' q='0.0' />
+<bead name ='9' type='4' mass='1.008' q='0.0' />
+<bead name ='10' type='4' mass='1.008' q='0.0' />
+<bead name ='11' type='8' mass='1.008' q='0.0' />
+<bead name ='12' type='6' mass='1.008' q='0.0' />
+<bead name ='13' type='6' mass='1.008' q='0.0' />
+<bead name ='14' type='6' mass='1.008' q='0.0' />
+<bead name ='15' type='6' mass='1.008' q='0.0' />
+<bead name ='16' type='6' mass='1.008' q='0.0' />
+<bead name ='17' type='4' mass='1.008' q='0.0' />
+<bead name ='18' type='2' mass='12.011' q='0.0' />
+<bead name ='19' type='3' mass='12.011' q='0.0' />
+<bead name ='20' type='7' mass='12.011' q='0.0' />
+<bead name ='21' type='5' mass='12.011' q='0.0' />
+<bead name ='22' type='5' mass='12.011' q='0.0' />
+<bead name ='23' type='5' mass='12.011' q='0.0' />
+<bead name ='24' type='5' mass='12.011' q='0.0' />
+<bead name ='25' type='5' mass='12.011' q='0.0' />
+<bead name ='26' type='4' mass='1.008' q='0.0' />
+<bead name ='27' type='4' mass='1.008' q='0.0' />
+<bead name ='28' type='8' mass='1.008' q='0.0' />
+<bead name ='29' type='6' mass='1.008' q='0.0' />
+<bead name ='30' type='6' mass='1.008' q='0.0' />
+<bead name ='31' type='6' mass='1.008' q='0.0' />
+<bead name ='32' type='6' mass='1.008' q='0.0' />
+<bead name ='33' type='6' mass='1.008' q='0.0' />
+<bead name ='34' type='2' mass='12.011' q='0.0' />
+<bead name ='35' type='3' mass='12.011' q='0.0' />
+<bead name ='36' type='7' mass='12.011' q='0.0' />
+<bead name ='37' type='5' mass='12.011' q='0.0' />
+<bead name ='38' type='5' mass='12.011' q='0.0' />
+<bead name ='39' type='5' mass='12.011' q='0.0' />
+<bead name ='40' type='5' mass='12.011' q='0.0' />
+<bead name ='41' type='5' mass='12.011' q='0.0' />
+<bead name ='42' type='4' mass='1.008' q='0.0' />
+<bead name ='43' type='4' mass='1.008' q='0.0' />
+<bead name ='44' type='8' mass='1.008' q='0.0' />
+<bead name ='45' type='6' mass='1.008' q='0.0' />
+<bead name ='46' type='6' mass='1.008' q='0.0' />
+<bead name ='47' type='6' mass='1.008' q='0.0' />
+<bead name ='48' type='6' mass='1.008' q='0.0' />
+<bead name ='49' type='6' mass='1.008' q='0.0' />
+<bead name ='50' type='2' mass='12.011' q='0.0' />
+<bead name ='51' type='3' mass='12.011' q='0.0' />
+<bead name ='52' type='7' mass='12.011' q='0.0' />
+<bead name ='53' type='5' mass='12.011' q='0.0' />
+<bead name ='54' type='5' mass='12.011' q='0.0' />
+<bead name ='55' type='5' mass='12.011' q='0.0' />
+<bead name ='56' type='5' mass='12.011' q='0.0' />
+<bead name ='57' type='5' mass='12.011' q='0.0' />
+<bead name ='58' type='4' mass='1.008' q='0.0' />
+<bead name ='59' type='4' mass='1.008' q='0.0' />
+<bead name ='60' type='8' mass='1.008' q='0.0' />
+<bead name ='61' type='6' mass='1.008' q='0.0' />
+<bead name ='62' type='6' mass='1.008' q='0.0' />
+<bead name ='63' type='6' mass='1.008' q='0.0' />
+<bead name ='64' type='6' mass='1.008' q='0.0' />
+<bead name ='65' type='6' mass='1.008' q='0.0' />
+<bead name ='66' type='2' mass='12.011' q='0.0' />
+<bead name ='67' type='3' mass='12.011' q='0.0' />
+<bead name ='68' type='7' mass='12.011' q='0.0' />
+<bead name ='69' type='5' mass='12.011' q='0.0' />
+<bead name ='70' type='5' mass='12.011' q='0.0' />
+<bead name ='71' type='5' mass='12.011' q='0.0' />
+<bead name ='72' type='5' mass='12.011' q='0.0' />
+<bead name ='73' type='5' mass='12.011' q='0.0' />
+<bead name ='74' type='4' mass='1.008' q='0.0' />
+<bead name ='75' type='4' mass='1.008' q='0.0' />
+<bead name ='76' type='8' mass='1.008' q='0.0' />
+<bead name ='77' type='6' mass='1.008' q='0.0' />
+<bead name ='78' type='6' mass='1.008' q='0.0' />
+<bead name ='79' type='6' mass='1.008' q='0.0' />
+<bead name ='80' type='6' mass='1.008' q='0.0' />
+<bead name ='81' type='6' mass='1.008' q='0.0' />
+<bead name ='82' type='2' mass='12.011' q='0.0' />
+<bead name ='83' type='3' mass='12.011' q='0.0' />
+<bead name ='84' type='7' mass='12.011' q='0.0' />
+<bead name ='85' type='5' mass='12.011' q='0.0' />
+<bead name ='86' type='5' mass='12.011' q='0.0' />
+<bead name ='87' type='5' mass='12.011' q='0.0' />
+<bead name ='88' type='5' mass='12.011' q='0.0' />
+<bead name ='89' type='5' mass='12.011' q='0.0' />
+<bead name ='90' type='4' mass='1.008' q='0.0' />
+<bead name ='91' type='4' mass='1.008' q='0.0' />
+<bead name ='92' type='8' mass='1.008' q='0.0' />
+<bead name ='93' type='6' mass='1.008' q='0.0' />
+<bead name ='94' type='6' mass='1.008' q='0.0' />
+<bead name ='95' type='6' mass='1.008' q='0.0' />
+<bead name ='96' type='6' mass='1.008' q='0.0' />
+<bead name ='97' type='6' mass='1.008' q='0.0' />
+<bead name ='98' type='2' mass='12.011' q='0.0' />
+<bead name ='99' type='3' mass='12.011' q='0.0' />
+<bead name ='100' type='7' mass='12.011' q='0.0' />
+<bead name ='101' type='5' mass='12.011' q='0.0' />
+<bead name ='102' type='5' mass='12.011' q='0.0' />
+<bead name ='103' type='5' mass='12.011' q='0.0' />
+<bead name ='104' type='5' mass='12.011' q='0.0' />
+<bead name ='105' type='5' mass='12.011' q='0.0' />
+<bead name ='106' type='4' mass='1.008' q='0.0' />
+<bead name ='107' type='4' mass='1.008' q='0.0' />
+<bead name ='108' type='8' mass='1.008' q='0.0' />
+<bead name ='109' type='6' mass='1.008' q='0.0' />
+<bead name ='110' type='6' mass='1.008' q='0.0' />
+<bead name ='111' type='6' mass='1.008' q='0.0' />
+<bead name ='112' type='6' mass='1.008' q='0.0' />
+<bead name ='113' type='6' mass='1.008' q='0.0' />
+<bead name ='114' type='2' mass='12.011' q='0.0' />
+<bead name ='115' type='3' mass='12.011' q='0.0' />
+<bead name ='116' type='7' mass='12.011' q='0.0' />
+<bead name ='117' type='5' mass='12.011' q='0.0' />
+<bead name ='118' type='5' mass='12.011' q='0.0' />
+<bead name ='119' type='5' mass='12.011' q='0.0' />
+<bead name ='120' type='5' mass='12.011' q='0.0' />
+<bead name ='121' type='5' mass='12.011' q='0.0' />
+<bead name ='122' type='4' mass='1.008' q='0.0' />
+<bead name ='123' type='4' mass='1.008' q='0.0' />
+<bead name ='124' type='8' mass='1.008' q='0.0' />
+<bead name ='125' type='6' mass='1.008' q='0.0' />
+<bead name ='126' type='6' mass='1.008' q='0.0' />
+<bead name ='127' type='6' mass='1.008' q='0.0' />
+<bead name ='128' type='6' mass='1.008' q='0.0' />
+<bead name ='129' type='6' mass='1.008' q='0.0' />
+<bead name ='130' type='2' mass='12.011' q='0.0' />
+<bead name ='131' type='3' mass='12.011' q='0.0' />
+<bead name ='132' type='7' mass='12.011' q='0.0' />
+<bead name ='133' type='5' mass='12.011' q='0.0' />
+<bead name ='134' type='5' mass='12.011' q='0.0' />
+<bead name ='135' type='5' mass='12.011' q='0.0' />
+<bead name ='136' type='5' mass='12.011' q='0.0' />
+<bead name ='137' type='5' mass='12.011' q='0.0' />
+<bead name ='138' type='4' mass='1.008' q='0.0' />
+<bead name ='139' type='4' mass='1.008' q='0.0' />
+<bead name ='140' type='8' mass='1.008' q='0.0' />
+<bead name ='141' type='6' mass='1.008' q='0.0' />
+<bead name ='142' type='6' mass='1.008' q='0.0' />
+<bead name ='143' type='6' mass='1.008' q='0.0' />
+<bead name ='144' type='6' mass='1.008' q='0.0' />
+<bead name ='145' type='6' mass='1.008' q='0.0' />
+<bead name ='146' type='2' mass='12.011' q='0.0' />
+<bead name ='147' type='2' mass='12.011' q='0.0' />
+<bead name ='148' type='7' mass='12.011' q='0.0' />
+<bead name ='149' type='5' mass='12.011' q='0.0' />
+<bead name ='150' type='5' mass='12.011' q='0.0' />
+<bead name ='151' type='5' mass='12.011' q='0.0' />
+<bead name ='152' type='5' mass='12.011' q='0.0' />
+<bead name ='153' type='5' mass='12.011' q='0.0' />
+<bead name ='154' type='4' mass='1.008' q='0.0' />
+<bead name ='155' type='4' mass='1.008' q='0.0' />
+<bead name ='156' type='4' mass='1.008' q='0.0' />
+<bead name ='157' type='6' mass='1.008' q='0.0' />
+<bead name ='158' type='6' mass='1.008' q='0.0' />
+<bead name ='159' type='6' mass='1.008' q='0.0' />
+<bead name ='160' type='6' mass='1.008' q='0.0' />
+<bead name ='161' type='6' mass='1.008' q='0.0' />
+<bead name ='162' type='4' mass='1.008' q='0.0' />
+</molecule>
+</molecules>
+<bonded>
+<bond>
+<name>bond</name>
+<beads>
+polystyrene:1   polystyrene:2
+polystyrene:1   polystyrene:9
+polystyrene:1   polystyrene:10
+polystyrene:1   polystyrene:17
+polystyrene:2   polystyrene:3
+polystyrene:2   polystyrene:11
+polystyrene:2   polystyrene:18
+polystyrene:3   polystyrene:4
+polystyrene:3   polystyrene:8
+polystyrene:4   polystyrene:5
+polystyrene:4   polystyrene:12
+polystyrene:5   polystyrene:6
+polystyrene:5   polystyrene:13
+polystyrene:6   polystyrene:7
+polystyrene:6   polystyrene:14
+polystyrene:7   polystyrene:8
+polystyrene:7   polystyrene:15
+polystyrene:8   polystyrene:16
+polystyrene:18   polystyrene:19
+polystyrene:18   polystyrene:26
+polystyrene:18   polystyrene:27
+polystyrene:19   polystyrene:20
+polystyrene:19   polystyrene:28
+polystyrene:19   polystyrene:34
+polystyrene:20   polystyrene:21
+polystyrene:20   polystyrene:25
+polystyrene:21   polystyrene:22
+polystyrene:21   polystyrene:29
+polystyrene:22   polystyrene:23
+polystyrene:22   polystyrene:30
+polystyrene:23   polystyrene:24
+polystyrene:23   polystyrene:31
+polystyrene:24   polystyrene:25
+polystyrene:24   polystyrene:32
+polystyrene:25   polystyrene:33
+polystyrene:34   polystyrene:35
+polystyrene:34   polystyrene:42
+polystyrene:34   polystyrene:43
+polystyrene:35   polystyrene:36
+polystyrene:35   polystyrene:44
+polystyrene:35   polystyrene:50
+polystyrene:36   polystyrene:37
+polystyrene:36   polystyrene:41
+polystyrene:37   polystyrene:38
+polystyrene:37   polystyrene:45
+polystyrene:38   polystyrene:39
+polystyrene:38   polystyrene:46
+polystyrene:39   polystyrene:40
+polystyrene:39   polystyrene:47
+polystyrene:40   polystyrene:41
+polystyrene:40   polystyrene:48
+polystyrene:41   polystyrene:49
+polystyrene:50   polystyrene:51
+polystyrene:50   polystyrene:58
+polystyrene:50   polystyrene:59
+polystyrene:51   polystyrene:52
+polystyrene:51   polystyrene:60
+polystyrene:51   polystyrene:66
+polystyrene:52   polystyrene:53
+polystyrene:52   polystyrene:57
+polystyrene:53   polystyrene:54
+polystyrene:53   polystyrene:61
+polystyrene:54   polystyrene:55
+polystyrene:54   polystyrene:62
+polystyrene:55   polystyrene:56
+polystyrene:55   polystyrene:63
+polystyrene:56   polystyrene:57
+polystyrene:56   polystyrene:64
+polystyrene:57   polystyrene:65
+polystyrene:66   polystyrene:67
+polystyrene:66   polystyrene:74
+polystyrene:66   polystyrene:75
+polystyrene:67   polystyrene:68
+polystyrene:67   polystyrene:76
+polystyrene:67   polystyrene:82
+polystyrene:68   polystyrene:69
+polystyrene:68   polystyrene:73
+polystyrene:69   polystyrene:70
+polystyrene:69   polystyrene:77
+polystyrene:70   polystyrene:71
+polystyrene:70   polystyrene:78
+polystyrene:71   polystyrene:72
+polystyrene:71   polystyrene:79
+polystyrene:72   polystyrene:73
+polystyrene:72   polystyrene:80
+polystyrene:73   polystyrene:81
+polystyrene:82   polystyrene:83
+polystyrene:82   polystyrene:90
+polystyrene:82   polystyrene:91
+polystyrene:83   polystyrene:84
+polystyrene:83   polystyrene:92
+polystyrene:83   polystyrene:98
+polystyrene:84   polystyrene:85
+polystyrene:84   polystyrene:89
+polystyrene:85   polystyrene:86
+polystyrene:85   polystyrene:93
+polystyrene:86   polystyrene:87
+polystyrene:86   polystyrene:94
+polystyrene:87   polystyrene:88
+polystyrene:87   polystyrene:95
+polystyrene:88   polystyrene:89
+polystyrene:88   polystyrene:96
+polystyrene:89   polystyrene:97
+polystyrene:98   polystyrene:99
+polystyrene:98   polystyrene:106
+polystyrene:98   polystyrene:107
+polystyrene:99   polystyrene:100
+polystyrene:99   polystyrene:108
+polystyrene:99   polystyrene:114
+polystyrene:100   polystyrene:101
+polystyrene:100   polystyrene:105
+polystyrene:101   polystyrene:102
+polystyrene:101   polystyrene:109
+polystyrene:102   polystyrene:103
+polystyrene:102   polystyrene:110
+polystyrene:103   polystyrene:104
+polystyrene:103   polystyrene:111
+polystyrene:104   polystyrene:105
+polystyrene:104   polystyrene:112
+polystyrene:105   polystyrene:113
+polystyrene:114   polystyrene:115
+polystyrene:114   polystyrene:122
+polystyrene:114   polystyrene:123
+polystyrene:115   polystyrene:116
+polystyrene:115   polystyrene:124
+polystyrene:115   polystyrene:130
+polystyrene:116   polystyrene:117
+polystyrene:116   polystyrene:121
+polystyrene:117   polystyrene:118
+polystyrene:117   polystyrene:125
+polystyrene:118   polystyrene:119
+polystyrene:118   polystyrene:126
+polystyrene:119   polystyrene:120
+polystyrene:119   polystyrene:127
+polystyrene:120   polystyrene:121
+polystyrene:120   polystyrene:128
+polystyrene:121   polystyrene:129
+polystyrene:130   polystyrene:131
+polystyrene:130   polystyrene:138
+polystyrene:130   polystyrene:139
+polystyrene:131   polystyrene:132
+polystyrene:131   polystyrene:140
+polystyrene:131   polystyrene:146
+polystyrene:132   polystyrene:133
+polystyrene:132   polystyrene:137
+polystyrene:133   polystyrene:134
+polystyrene:133   polystyrene:141
+polystyrene:134   polystyrene:135
+polystyrene:134   polystyrene:142
+polystyrene:135   polystyrene:136
+polystyrene:135   polystyrene:143
+polystyrene:136   polystyrene:137
+polystyrene:136   polystyrene:144
+polystyrene:137   polystyrene:145
+polystyrene:146   polystyrene:147
+polystyrene:146   polystyrene:154
+polystyrene:146   polystyrene:155
+polystyrene:147   polystyrene:148
+polystyrene:147   polystyrene:156
+polystyrene:147   polystyrene:162
+polystyrene:148   polystyrene:149
+polystyrene:148   polystyrene:153
+polystyrene:149   polystyrene:150
+polystyrene:149   polystyrene:157
+polystyrene:150   polystyrene:151
+polystyrene:150   polystyrene:158
+polystyrene:151   polystyrene:152
+polystyrene:151   polystyrene:159
+polystyrene:152   polystyrene:153
+polystyrene:152   polystyrene:160
+polystyrene:153   polystyrene:161
+</beads>
+</bond>
+<angle>
+<name>angle</name>
+<beads>
+polystyrene:1   polystyrene:2   polystyrene:3
+polystyrene:1   polystyrene:2   polystyrene:11
+polystyrene:1   polystyrene:2   polystyrene:18
+polystyrene:2   polystyrene:1   polystyrene:9
+polystyrene:2   polystyrene:1   polystyrene:10
+polystyrene:2   polystyrene:1   polystyrene:17
+polystyrene:2   polystyrene:3   polystyrene:4
+polystyrene:2   polystyrene:3   polystyrene:8
+polystyrene:2   polystyrene:18   polystyrene:19
+polystyrene:2   polystyrene:18   polystyrene:26
+polystyrene:2   polystyrene:18   polystyrene:27
+polystyrene:3   polystyrene:2   polystyrene:11
+polystyrene:3   polystyrene:2   polystyrene:18
+polystyrene:3   polystyrene:4   polystyrene:5
+polystyrene:3   polystyrene:4   polystyrene:12
+polystyrene:3   polystyrene:8   polystyrene:7
+polystyrene:3   polystyrene:8   polystyrene:16
+polystyrene:4   polystyrene:3   polystyrene:8
+polystyrene:4   polystyrene:5   polystyrene:6
+polystyrene:4   polystyrene:5   polystyrene:13
+polystyrene:5   polystyrene:4   polystyrene:12
+polystyrene:5   polystyrene:6   polystyrene:7
+polystyrene:5   polystyrene:6   polystyrene:14
+polystyrene:6   polystyrene:5   polystyrene:13
+polystyrene:6   polystyrene:7   polystyrene:8
+polystyrene:6   polystyrene:7   polystyrene:15
+polystyrene:7   polystyrene:6   polystyrene:14
+polystyrene:7   polystyrene:8   polystyrene:16
+polystyrene:8   polystyrene:7   polystyrene:15
+polystyrene:9   polystyrene:1   polystyrene:10
+polystyrene:9   polystyrene:1   polystyrene:17
+polystyrene:10   polystyrene:1   polystyrene:17
+polystyrene:11   polystyrene:2   polystyrene:18
+polystyrene:18   polystyrene:19   polystyrene:20
+polystyrene:18   polystyrene:19   polystyrene:28
+polystyrene:18   polystyrene:19   polystyrene:34
+polystyrene:19   polystyrene:18   polystyrene:26
+polystyrene:19   polystyrene:18   polystyrene:27
+polystyrene:19   polystyrene:20   polystyrene:21
+polystyrene:19   polystyrene:20   polystyrene:25
+polystyrene:19   polystyrene:34   polystyrene:35
+polystyrene:19   polystyrene:34   polystyrene:42
+polystyrene:19   polystyrene:34   polystyrene:43
+polystyrene:20   polystyrene:19   polystyrene:28
+polystyrene:20   polystyrene:19   polystyrene:34
+polystyrene:20   polystyrene:21   polystyrene:22
+polystyrene:20   polystyrene:21   polystyrene:29
+polystyrene:20   polystyrene:25   polystyrene:24
+polystyrene:20   polystyrene:25   polystyrene:33
+polystyrene:21   polystyrene:20   polystyrene:25
+polystyrene:21   polystyrene:22   polystyrene:23
+polystyrene:21   polystyrene:22   polystyrene:30
+polystyrene:22   polystyrene:21   polystyrene:29
+polystyrene:22   polystyrene:23   polystyrene:24
+polystyrene:22   polystyrene:23   polystyrene:31
+polystyrene:23   polystyrene:22   polystyrene:30
+polystyrene:23   polystyrene:24   polystyrene:25
+polystyrene:23   polystyrene:24   polystyrene:32
+polystyrene:24   polystyrene:23   polystyrene:31
+polystyrene:24   polystyrene:25   polystyrene:33
+polystyrene:25   polystyrene:24   polystyrene:32
+polystyrene:26   polystyrene:18   polystyrene:27
+polystyrene:28   polystyrene:19   polystyrene:34
+polystyrene:34   polystyrene:35   polystyrene:36
+polystyrene:34   polystyrene:35   polystyrene:44
+polystyrene:34   polystyrene:35   polystyrene:50
+polystyrene:35   polystyrene:34   polystyrene:42
+polystyrene:35   polystyrene:34   polystyrene:43
+polystyrene:35   polystyrene:36   polystyrene:37
+polystyrene:35   polystyrene:36   polystyrene:41
+polystyrene:35   polystyrene:50   polystyrene:51
+polystyrene:35   polystyrene:50   polystyrene:58
+polystyrene:35   polystyrene:50   polystyrene:59
+polystyrene:36   polystyrene:35   polystyrene:44
+polystyrene:36   polystyrene:35   polystyrene:50
+polystyrene:36   polystyrene:37   polystyrene:38
+polystyrene:36   polystyrene:37   polystyrene:45
+polystyrene:36   polystyrene:41   polystyrene:40
+polystyrene:36   polystyrene:41   polystyrene:49
+polystyrene:37   polystyrene:36   polystyrene:41
+polystyrene:37   polystyrene:38   polystyrene:39
+polystyrene:37   polystyrene:38   polystyrene:46
+polystyrene:38   polystyrene:37   polystyrene:45
+polystyrene:38   polystyrene:39   polystyrene:40
+polystyrene:38   polystyrene:39   polystyrene:47
+polystyrene:39   polystyrene:38   polystyrene:46
+polystyrene:39   polystyrene:40   polystyrene:41
+polystyrene:39   polystyrene:40   polystyrene:48
+polystyrene:40   polystyrene:39   polystyrene:47
+polystyrene:40   polystyrene:41   polystyrene:49
+polystyrene:41   polystyrene:40   polystyrene:48
+polystyrene:42   polystyrene:34   polystyrene:43
+polystyrene:44   polystyrene:35   polystyrene:50
+polystyrene:50   polystyrene:51   polystyrene:52
+polystyrene:50   polystyrene:51   polystyrene:60
+polystyrene:50   polystyrene:51   polystyrene:66
+polystyrene:51   polystyrene:50   polystyrene:58
+polystyrene:51   polystyrene:50   polystyrene:59
+polystyrene:51   polystyrene:52   polystyrene:53
+polystyrene:51   polystyrene:52   polystyrene:57
+polystyrene:51   polystyrene:66   polystyrene:67
+polystyrene:51   polystyrene:66   polystyrene:74
+polystyrene:51   polystyrene:66   polystyrene:75
+polystyrene:52   polystyrene:51   polystyrene:60
+polystyrene:52   polystyrene:51   polystyrene:66
+polystyrene:52   polystyrene:53   polystyrene:54
+polystyrene:52   polystyrene:53   polystyrene:61
+polystyrene:52   polystyrene:57   polystyrene:56
+polystyrene:52   polystyrene:57   polystyrene:65
+polystyrene:53   polystyrene:52   polystyrene:57
+polystyrene:53   polystyrene:54   polystyrene:55
+polystyrene:53   polystyrene:54   polystyrene:62
+polystyrene:54   polystyrene:53   polystyrene:61
+polystyrene:54   polystyrene:55   polystyrene:56
+polystyrene:54   polystyrene:55   polystyrene:63
+polystyrene:55   polystyrene:54   polystyrene:62
+polystyrene:55   polystyrene:56   polystyrene:57
+polystyrene:55   polystyrene:56   polystyrene:64
+polystyrene:56   polystyrene:55   polystyrene:63
+polystyrene:56   polystyrene:57   polystyrene:65
+polystyrene:57   polystyrene:56   polystyrene:64
+polystyrene:58   polystyrene:50   polystyrene:59
+polystyrene:60   polystyrene:51   polystyrene:66
+polystyrene:66   polystyrene:67   polystyrene:68
+polystyrene:66   polystyrene:67   polystyrene:76
+polystyrene:66   polystyrene:67   polystyrene:82
+polystyrene:67   polystyrene:66   polystyrene:74
+polystyrene:67   polystyrene:66   polystyrene:75
+polystyrene:67   polystyrene:68   polystyrene:69
+polystyrene:67   polystyrene:68   polystyrene:73
+polystyrene:67   polystyrene:82   polystyrene:83
+polystyrene:67   polystyrene:82   polystyrene:90
+polystyrene:67   polystyrene:82   polystyrene:91
+polystyrene:68   polystyrene:67   polystyrene:76
+polystyrene:68   polystyrene:67   polystyrene:82
+polystyrene:68   polystyrene:69   polystyrene:70
+polystyrene:68   polystyrene:69   polystyrene:77
+polystyrene:68   polystyrene:73   polystyrene:72
+polystyrene:68   polystyrene:73   polystyrene:81
+polystyrene:69   polystyrene:68   polystyrene:73
+polystyrene:69   polystyrene:70   polystyrene:71
+polystyrene:69   polystyrene:70   polystyrene:78
+polystyrene:70   polystyrene:69   polystyrene:77
+polystyrene:70   polystyrene:71   polystyrene:72
+polystyrene:70   polystyrene:71   polystyrene:79
+polystyrene:71   polystyrene:70   polystyrene:78
+polystyrene:71   polystyrene:72   polystyrene:73
+polystyrene:71   polystyrene:72   polystyrene:80
+polystyrene:72   polystyrene:71   polystyrene:79
+polystyrene:72   polystyrene:73   polystyrene:81
+polystyrene:73   polystyrene:72   polystyrene:80
+polystyrene:74   polystyrene:66   polystyrene:75
+polystyrene:76   polystyrene:67   polystyrene:82
+polystyrene:82   polystyrene:83   polystyrene:84
+polystyrene:82   polystyrene:83   polystyrene:92
+polystyrene:82   polystyrene:83   polystyrene:98
+polystyrene:83   polystyrene:82   polystyrene:90
+polystyrene:83   polystyrene:82   polystyrene:91
+polystyrene:83   polystyrene:84   polystyrene:85
+polystyrene:83   polystyrene:84   polystyrene:89
+polystyrene:83   polystyrene:98   polystyrene:99
+polystyrene:83   polystyrene:98   polystyrene:106
+polystyrene:83   polystyrene:98   polystyrene:107
+polystyrene:84   polystyrene:83   polystyrene:92
+polystyrene:84   polystyrene:83   polystyrene:98
+polystyrene:84   polystyrene:85   polystyrene:86
+polystyrene:84   polystyrene:85   polystyrene:93
+polystyrene:84   polystyrene:89   polystyrene:88
+polystyrene:84   polystyrene:89   polystyrene:97
+polystyrene:85   polystyrene:84   polystyrene:89
+polystyrene:85   polystyrene:86   polystyrene:87
+polystyrene:85   polystyrene:86   polystyrene:94
+polystyrene:86   polystyrene:85   polystyrene:93
+polystyrene:86   polystyrene:87   polystyrene:88
+polystyrene:86   polystyrene:87   polystyrene:95
+polystyrene:87   polystyrene:86   polystyrene:94
+polystyrene:87   polystyrene:88   polystyrene:89
+polystyrene:87   polystyrene:88   polystyrene:96
+polystyrene:88   polystyrene:87   polystyrene:95
+polystyrene:88   polystyrene:89   polystyrene:97
+polystyrene:89   polystyrene:88   polystyrene:96
+polystyrene:90   polystyrene:82   polystyrene:91
+polystyrene:92   polystyrene:83   polystyrene:98
+polystyrene:98   polystyrene:99   polystyrene:100
+polystyrene:98   polystyrene:99   polystyrene:108
+polystyrene:98   polystyrene:99   polystyrene:114
+polystyrene:99   polystyrene:98   polystyrene:106
+polystyrene:99   polystyrene:98   polystyrene:107
+polystyrene:99   polystyrene:100   polystyrene:101
+polystyrene:99   polystyrene:100   polystyrene:105
+polystyrene:99   polystyrene:114   polystyrene:115
+polystyrene:99   polystyrene:114   polystyrene:122
+polystyrene:99   polystyrene:114   polystyrene:123
+polystyrene:100   polystyrene:99   polystyrene:108
+polystyrene:100   polystyrene:99   polystyrene:114
+polystyrene:100   polystyrene:101   polystyrene:102
+polystyrene:100   polystyrene:101   polystyrene:109
+polystyrene:100   polystyrene:105   polystyrene:104
+polystyrene:100   polystyrene:105   polystyrene:113
+polystyrene:101   polystyrene:100   polystyrene:105
+polystyrene:101   polystyrene:102   polystyrene:103
+polystyrene:101   polystyrene:102   polystyrene:110
+polystyrene:102   polystyrene:101   polystyrene:109
+polystyrene:102   polystyrene:103   polystyrene:104
+polystyrene:102   polystyrene:103   polystyrene:111
+polystyrene:103   polystyrene:102   polystyrene:110
+polystyrene:103   polystyrene:104   polystyrene:105
+polystyrene:103   polystyrene:104   polystyrene:112
+polystyrene:104   polystyrene:103   polystyrene:111
+polystyrene:104   polystyrene:105   polystyrene:113
+polystyrene:105   polystyrene:104   polystyrene:112
+polystyrene:106   polystyrene:98   polystyrene:107
+polystyrene:108   polystyrene:99   polystyrene:114
+polystyrene:114   polystyrene:115   polystyrene:116
+polystyrene:114   polystyrene:115   polystyrene:124
+polystyrene:114   polystyrene:115   polystyrene:130
+polystyrene:115   polystyrene:114   polystyrene:122
+polystyrene:115   polystyrene:114   polystyrene:123
+polystyrene:115   polystyrene:116   polystyrene:117
+polystyrene:115   polystyrene:116   polystyrene:121
+polystyrene:115   polystyrene:130   polystyrene:131
+polystyrene:115   polystyrene:130   polystyrene:138
+polystyrene:115   polystyrene:130   polystyrene:139
+polystyrene:116   polystyrene:115   polystyrene:124
+polystyrene:116   polystyrene:115   polystyrene:130
+polystyrene:116   polystyrene:117   polystyrene:118
+polystyrene:116   polystyrene:117   polystyrene:125
+polystyrene:116   polystyrene:121   polystyrene:120
+polystyrene:116   polystyrene:121   polystyrene:129
+polystyrene:117   polystyrene:116   polystyrene:121
+polystyrene:117   polystyrene:118   polystyrene:119
+polystyrene:117   polystyrene:118   polystyrene:126
+polystyrene:118   polystyrene:117   polystyrene:125
+polystyrene:118   polystyrene:119   polystyrene:120
+polystyrene:118   polystyrene:119   polystyrene:127
+polystyrene:119   polystyrene:118   polystyrene:126
+polystyrene:119   polystyrene:120   polystyrene:121
+polystyrene:119   polystyrene:120   polystyrene:128
+polystyrene:120   polystyrene:119   polystyrene:127
+polystyrene:120   polystyrene:121   polystyrene:129
+polystyrene:121   polystyrene:120   polystyrene:128
+polystyrene:122   polystyrene:114   polystyrene:123
+polystyrene:124   polystyrene:115   polystyrene:130
+polystyrene:130   polystyrene:131   polystyrene:132
+polystyrene:130   polystyrene:131   polystyrene:140
+polystyrene:130   polystyrene:131   polystyrene:146
+polystyrene:131   polystyrene:130   polystyrene:138
+polystyrene:131   polystyrene:130   polystyrene:139
+polystyrene:131   polystyrene:132   polystyrene:133
+polystyrene:131   polystyrene:132   polystyrene:137
+polystyrene:131   polystyrene:146   polystyrene:147
+polystyrene:131   polystyrene:146   polystyrene:154
+polystyrene:131   polystyrene:146   polystyrene:155
+polystyrene:132   polystyrene:131   polystyrene:140
+polystyrene:132   polystyrene:131   polystyrene:146
+polystyrene:132   polystyrene:133   polystyrene:134
+polystyrene:132   polystyrene:133   polystyrene:141
+polystyrene:132   polystyrene:137   polystyrene:136
+polystyrene:132   polystyrene:137   polystyrene:145
+polystyrene:133   polystyrene:132   polystyrene:137
+polystyrene:133   polystyrene:134   polystyrene:135
+polystyrene:133   polystyrene:134   polystyrene:142
+polystyrene:134   polystyrene:133   polystyrene:141
+polystyrene:134   polystyrene:135   polystyrene:136
+polystyrene:134   polystyrene:135   polystyrene:143
+polystyrene:135   polystyrene:134   polystyrene:142
+polystyrene:135   polystyrene:136   polystyrene:137
+polystyrene:135   polystyrene:136   polystyrene:144
+polystyrene:136   polystyrene:135   polystyrene:143
+polystyrene:136   polystyrene:137   polystyrene:145
+polystyrene:137   polystyrene:136   polystyrene:144
+polystyrene:138   polystyrene:130   polystyrene:139
+polystyrene:140   polystyrene:131   polystyrene:146
+polystyrene:146   polystyrene:147   polystyrene:148
+polystyrene:146   polystyrene:147   polystyrene:156
+polystyrene:146   polystyrene:147   polystyrene:162
+polystyrene:147   polystyrene:146   polystyrene:154
+polystyrene:147   polystyrene:146   polystyrene:155
+polystyrene:147   polystyrene:148   polystyrene:149
+polystyrene:147   polystyrene:148   polystyrene:153
+polystyrene:148   polystyrene:147   polystyrene:156
+polystyrene:148   polystyrene:147   polystyrene:162
+polystyrene:148   polystyrene:149   polystyrene:150
+polystyrene:148   polystyrene:149   polystyrene:157
+polystyrene:148   polystyrene:153   polystyrene:152
+polystyrene:148   polystyrene:153   polystyrene:161
+polystyrene:149   polystyrene:148   polystyrene:153
+polystyrene:149   polystyrene:150   polystyrene:151
+polystyrene:149   polystyrene:150   polystyrene:158
+polystyrene:150   polystyrene:149   polystyrene:157
+polystyrene:150   polystyrene:151   polystyrene:152
+polystyrene:150   polystyrene:151   polystyrene:159
+polystyrene:151   polystyrene:150   polystyrene:158
+polystyrene:151   polystyrene:152   polystyrene:153
+polystyrene:151   polystyrene:152   polystyrene:160
+polystyrene:152   polystyrene:151   polystyrene:159
+polystyrene:152   polystyrene:153   polystyrene:161
+polystyrene:153   polystyrene:152   polystyrene:160
+polystyrene:154   polystyrene:146   polystyrene:155
+polystyrene:156   polystyrene:147   polystyrene:162
+</beads>
+</angle>
+<dihedral>
+<name>dihedral</name>
+<beads>
+polystyrene:1   polystyrene:2   polystyrene:3   polystyrene:4
+polystyrene:1   polystyrene:2   polystyrene:3   polystyrene:8
+polystyrene:1   polystyrene:2   polystyrene:18   polystyrene:19
+polystyrene:1   polystyrene:2   polystyrene:18   polystyrene:26
+polystyrene:1   polystyrene:2   polystyrene:18   polystyrene:27
+polystyrene:2   polystyrene:3   polystyrene:4   polystyrene:5
+polystyrene:2   polystyrene:3   polystyrene:4   polystyrene:12
+polystyrene:2   polystyrene:3   polystyrene:8   polystyrene:7
+polystyrene:2   polystyrene:3   polystyrene:8   polystyrene:16
+polystyrene:2   polystyrene:18   polystyrene:19   polystyrene:20
+polystyrene:2   polystyrene:18   polystyrene:19   polystyrene:28
+polystyrene:2   polystyrene:18   polystyrene:19   polystyrene:34
+polystyrene:3   polystyrene:2   polystyrene:1   polystyrene:9
+polystyrene:3   polystyrene:2   polystyrene:1   polystyrene:10
+polystyrene:3   polystyrene:2   polystyrene:1   polystyrene:17
+polystyrene:3   polystyrene:2   polystyrene:18   polystyrene:19
+polystyrene:3   polystyrene:2   polystyrene:18   polystyrene:26
+polystyrene:3   polystyrene:2   polystyrene:18   polystyrene:27
+polystyrene:3   polystyrene:4   polystyrene:5   polystyrene:6
+polystyrene:3   polystyrene:4   polystyrene:5   polystyrene:13
+polystyrene:3   polystyrene:8   polystyrene:7   polystyrene:15
+polystyrene:4   polystyrene:3   polystyrene:2   polystyrene:11
+polystyrene:4   polystyrene:3   polystyrene:2   polystyrene:18
+polystyrene:4   polystyrene:3   polystyrene:8   polystyrene:7
+polystyrene:4   polystyrene:3   polystyrene:8   polystyrene:16
+polystyrene:4   polystyrene:5   polystyrene:6   polystyrene:7
+polystyrene:4   polystyrene:5   polystyrene:6   polystyrene:14
+polystyrene:5   polystyrene:4   polystyrene:3   polystyrene:8
+polystyrene:5   polystyrene:6   polystyrene:7   polystyrene:8
+polystyrene:5   polystyrene:6   polystyrene:7   polystyrene:15
+polystyrene:6   polystyrene:5   polystyrene:4   polystyrene:12
+polystyrene:6   polystyrene:7   polystyrene:8   polystyrene:3
+polystyrene:6   polystyrene:7   polystyrene:8   polystyrene:16
+polystyrene:7   polystyrene:6   polystyrene:5   polystyrene:13
+polystyrene:8   polystyrene:3   polystyrene:2   polystyrene:11
+polystyrene:8   polystyrene:3   polystyrene:2   polystyrene:18
+polystyrene:8   polystyrene:3   polystyrene:4   polystyrene:12
+polystyrene:8   polystyrene:7   polystyrene:6   polystyrene:14
+polystyrene:9   polystyrene:1   polystyrene:2   polystyrene:11
+polystyrene:9   polystyrene:1   polystyrene:2   polystyrene:18
+polystyrene:10   polystyrene:1   polystyrene:2   polystyrene:11
+polystyrene:10   polystyrene:1   polystyrene:2   polystyrene:18
+polystyrene:11   polystyrene:2   polystyrene:1   polystyrene:17
+polystyrene:11   polystyrene:2   polystyrene:18   polystyrene:19
+polystyrene:11   polystyrene:2   polystyrene:18   polystyrene:26
+polystyrene:11   polystyrene:2   polystyrene:18   polystyrene:27
+polystyrene:12   polystyrene:4   polystyrene:5   polystyrene:13
+polystyrene:13   polystyrene:5   polystyrene:6   polystyrene:14
+polystyrene:14   polystyrene:6   polystyrene:7   polystyrene:15
+polystyrene:15   polystyrene:7   polystyrene:8   polystyrene:16
+polystyrene:17   polystyrene:1   polystyrene:2   polystyrene:18
+polystyrene:18   polystyrene:19   polystyrene:20   polystyrene:21
+polystyrene:18   polystyrene:19   polystyrene:20   polystyrene:25
+polystyrene:18   polystyrene:19   polystyrene:34   polystyrene:35
+polystyrene:18   polystyrene:19   polystyrene:34   polystyrene:42
+polystyrene:18   polystyrene:19   polystyrene:34   polystyrene:43
+polystyrene:19   polystyrene:20   polystyrene:21   polystyrene:22
+polystyrene:19   polystyrene:20   polystyrene:21   polystyrene:29
+polystyrene:19   polystyrene:20   polystyrene:25   polystyrene:24
+polystyrene:19   polystyrene:20   polystyrene:25   polystyrene:33
+polystyrene:19   polystyrene:34   polystyrene:35   polystyrene:36
+polystyrene:19   polystyrene:34   polystyrene:35   polystyrene:44
+polystyrene:19   polystyrene:34   polystyrene:35   polystyrene:50
+polystyrene:20   polystyrene:19   polystyrene:18   polystyrene:26
+polystyrene:20   polystyrene:19   polystyrene:18   polystyrene:27
+polystyrene:20   polystyrene:19   polystyrene:34   polystyrene:35
+polystyrene:20   polystyrene:19   polystyrene:34   polystyrene:42
+polystyrene:20   polystyrene:19   polystyrene:34   polystyrene:43
+polystyrene:20   polystyrene:21   polystyrene:22   polystyrene:23
+polystyrene:20   polystyrene:21   polystyrene:22   polystyrene:30
+polystyrene:20   polystyrene:25   polystyrene:24   polystyrene:32
+polystyrene:21   polystyrene:20   polystyrene:19   polystyrene:28
+polystyrene:21   polystyrene:20   polystyrene:19   polystyrene:34
+polystyrene:21   polystyrene:20   polystyrene:25   polystyrene:24
+polystyrene:21   polystyrene:20   polystyrene:25   polystyrene:33
+polystyrene:21   polystyrene:22   polystyrene:23   polystyrene:24
+polystyrene:21   polystyrene:22   polystyrene:23   polystyrene:31
+polystyrene:22   polystyrene:21   polystyrene:20   polystyrene:25
+polystyrene:22   polystyrene:23   polystyrene:24   polystyrene:25
+polystyrene:22   polystyrene:23   polystyrene:24   polystyrene:32
+polystyrene:23   polystyrene:22   polystyrene:21   polystyrene:29
+polystyrene:23   polystyrene:24   polystyrene:25   polystyrene:20
+polystyrene:23   polystyrene:24   polystyrene:25   polystyrene:33
+polystyrene:24   polystyrene:23   polystyrene:22   polystyrene:30
+polystyrene:25   polystyrene:20   polystyrene:19   polystyrene:28
+polystyrene:25   polystyrene:20   polystyrene:19   polystyrene:34
+polystyrene:25   polystyrene:20   polystyrene:21   polystyrene:29
+polystyrene:25   polystyrene:24   polystyrene:23   polystyrene:31
+polystyrene:26   polystyrene:18   polystyrene:19   polystyrene:28
+polystyrene:26   polystyrene:18   polystyrene:19   polystyrene:34
+polystyrene:27   polystyrene:18   polystyrene:19   polystyrene:28
+polystyrene:27   polystyrene:18   polystyrene:19   polystyrene:34
+polystyrene:28   polystyrene:19   polystyrene:34   polystyrene:35
+polystyrene:28   polystyrene:19   polystyrene:34   polystyrene:42
+polystyrene:28   polystyrene:19   polystyrene:34   polystyrene:43
+polystyrene:29   polystyrene:21   polystyrene:22   polystyrene:30
+polystyrene:30   polystyrene:22   polystyrene:23   polystyrene:31
+polystyrene:31   polystyrene:23   polystyrene:24   polystyrene:32
+polystyrene:32   polystyrene:24   polystyrene:25   polystyrene:33
+polystyrene:34   polystyrene:35   polystyrene:36   polystyrene:37
+polystyrene:34   polystyrene:35   polystyrene:36   polystyrene:41
+polystyrene:34   polystyrene:35   polystyrene:50   polystyrene:51
+polystyrene:34   polystyrene:35   polystyrene:50   polystyrene:58
+polystyrene:34   polystyrene:35   polystyrene:50   polystyrene:59
+polystyrene:35   polystyrene:36   polystyrene:37   polystyrene:38
+polystyrene:35   polystyrene:36   polystyrene:37   polystyrene:45
+polystyrene:35   polystyrene:36   polystyrene:41   polystyrene:40
+polystyrene:35   polystyrene:36   polystyrene:41   polystyrene:49
+polystyrene:35   polystyrene:50   polystyrene:51   polystyrene:52
+polystyrene:35   polystyrene:50   polystyrene:51   polystyrene:60
+polystyrene:35   polystyrene:50   polystyrene:51   polystyrene:66
+polystyrene:36   polystyrene:35   polystyrene:34   polystyrene:42
+polystyrene:36   polystyrene:35   polystyrene:34   polystyrene:43
+polystyrene:36   polystyrene:35   polystyrene:50   polystyrene:51
+polystyrene:36   polystyrene:35   polystyrene:50   polystyrene:58
+polystyrene:36   polystyrene:35   polystyrene:50   polystyrene:59
+polystyrene:36   polystyrene:37   polystyrene:38   polystyrene:39
+polystyrene:36   polystyrene:37   polystyrene:38   polystyrene:46
+polystyrene:36   polystyrene:41   polystyrene:40   polystyrene:48
+polystyrene:37   polystyrene:36   polystyrene:35   polystyrene:44
+polystyrene:37   polystyrene:36   polystyrene:35   polystyrene:50
+polystyrene:37   polystyrene:36   polystyrene:41   polystyrene:40
+polystyrene:37   polystyrene:36   polystyrene:41   polystyrene:49
+polystyrene:37   polystyrene:38   polystyrene:39   polystyrene:40
+polystyrene:37   polystyrene:38   polystyrene:39   polystyrene:47
+polystyrene:38   polystyrene:37   polystyrene:36   polystyrene:41
+polystyrene:38   polystyrene:39   polystyrene:40   polystyrene:41
+polystyrene:38   polystyrene:39   polystyrene:40   polystyrene:48
+polystyrene:39   polystyrene:38   polystyrene:37   polystyrene:45
+polystyrene:39   polystyrene:40   polystyrene:41   polystyrene:36
+polystyrene:39   polystyrene:40   polystyrene:41   polystyrene:49
+polystyrene:40   polystyrene:39   polystyrene:38   polystyrene:46
+polystyrene:41   polystyrene:36   polystyrene:35   polystyrene:44
+polystyrene:41   polystyrene:36   polystyrene:35   polystyrene:50
+polystyrene:41   polystyrene:36   polystyrene:37   polystyrene:45
+polystyrene:41   polystyrene:40   polystyrene:39   polystyrene:47
+polystyrene:42   polystyrene:34   polystyrene:35   polystyrene:44
+polystyrene:42   polystyrene:34   polystyrene:35   polystyrene:50
+polystyrene:43   polystyrene:34   polystyrene:35   polystyrene:44
+polystyrene:43   polystyrene:34   polystyrene:35   polystyrene:50
+polystyrene:44   polystyrene:35   polystyrene:50   polystyrene:51
+polystyrene:44   polystyrene:35   polystyrene:50   polystyrene:58
+polystyrene:44   polystyrene:35   polystyrene:50   polystyrene:59
+polystyrene:45   polystyrene:37   polystyrene:38   polystyrene:46
+polystyrene:46   polystyrene:38   polystyrene:39   polystyrene:47
+polystyrene:47   polystyrene:39   polystyrene:40   polystyrene:48
+polystyrene:48   polystyrene:40   polystyrene:41   polystyrene:49
+polystyrene:50   polystyrene:51   polystyrene:52   polystyrene:53
+polystyrene:50   polystyrene:51   polystyrene:52   polystyrene:57
+polystyrene:50   polystyrene:51   polystyrene:66   polystyrene:67
+polystyrene:50   polystyrene:51   polystyrene:66   polystyrene:74
+polystyrene:50   polystyrene:51   polystyrene:66   polystyrene:75
+polystyrene:51   polystyrene:52   polystyrene:53   polystyrene:54
+polystyrene:51   polystyrene:52   polystyrene:53   polystyrene:61
+polystyrene:51   polystyrene:52   polystyrene:57   polystyrene:56
+polystyrene:51   polystyrene:52   polystyrene:57   polystyrene:65
+polystyrene:51   polystyrene:66   polystyrene:67   polystyrene:68
+polystyrene:51   polystyrene:66   polystyrene:67   polystyrene:76
+polystyrene:51   polystyrene:66   polystyrene:67   polystyrene:82
+polystyrene:52   polystyrene:51   polystyrene:50   polystyrene:58
+polystyrene:52   polystyrene:51   polystyrene:50   polystyrene:59
+polystyrene:52   polystyrene:51   polystyrene:66   polystyrene:67
+polystyrene:52   polystyrene:51   polystyrene:66   polystyrene:74
+polystyrene:52   polystyrene:51   polystyrene:66   polystyrene:75
+polystyrene:52   polystyrene:53   polystyrene:54   polystyrene:55
+polystyrene:52   polystyrene:53   polystyrene:54   polystyrene:62
+polystyrene:52   polystyrene:57   polystyrene:56   polystyrene:64
+polystyrene:53   polystyrene:52   polystyrene:51   polystyrene:60
+polystyrene:53   polystyrene:52   polystyrene:51   polystyrene:66
+polystyrene:53   polystyrene:52   polystyrene:57   polystyrene:56
+polystyrene:53   polystyrene:52   polystyrene:57   polystyrene:65
+polystyrene:53   polystyrene:54   polystyrene:55   polystyrene:56
+polystyrene:53   polystyrene:54   polystyrene:55   polystyrene:63
+polystyrene:54   polystyrene:53   polystyrene:52   polystyrene:57
+polystyrene:54   polystyrene:55   polystyrene:56   polystyrene:57
+polystyrene:54   polystyrene:55   polystyrene:56   polystyrene:64
+polystyrene:55   polystyrene:54   polystyrene:53   polystyrene:61
+polystyrene:55   polystyrene:56   polystyrene:57   polystyrene:52
+polystyrene:55   polystyrene:56   polystyrene:57   polystyrene:65
+polystyrene:56   polystyrene:55   polystyrene:54   polystyrene:62
+polystyrene:57   polystyrene:52   polystyrene:51   polystyrene:60
+polystyrene:57   polystyrene:52   polystyrene:51   polystyrene:66
+polystyrene:57   polystyrene:52   polystyrene:53   polystyrene:61
+polystyrene:57   polystyrene:56   polystyrene:55   polystyrene:63
+polystyrene:58   polystyrene:50   polystyrene:51   polystyrene:60
+polystyrene:58   polystyrene:50   polystyrene:51   polystyrene:66
+polystyrene:59   polystyrene:50   polystyrene:51   polystyrene:60
+polystyrene:59   polystyrene:50   polystyrene:51   polystyrene:66
+polystyrene:60   polystyrene:51   polystyrene:66   polystyrene:67
+polystyrene:60   polystyrene:51   polystyrene:66   polystyrene:74
+polystyrene:60   polystyrene:51   polystyrene:66   polystyrene:75
+polystyrene:61   polystyrene:53   polystyrene:54   polystyrene:62
+polystyrene:62   polystyrene:54   polystyrene:55   polystyrene:63
+polystyrene:63   polystyrene:55   polystyrene:56   polystyrene:64
+polystyrene:64   polystyrene:56   polystyrene:57   polystyrene:65
+polystyrene:66   polystyrene:67   polystyrene:68   polystyrene:69
+polystyrene:66   polystyrene:67   polystyrene:68   polystyrene:73
+polystyrene:66   polystyrene:67   polystyrene:82   polystyrene:83
+polystyrene:66   polystyrene:67   polystyrene:82   polystyrene:90
+polystyrene:66   polystyrene:67   polystyrene:82   polystyrene:91
+polystyrene:67   polystyrene:68   polystyrene:69   polystyrene:70
+polystyrene:67   polystyrene:68   polystyrene:69   polystyrene:77
+polystyrene:67   polystyrene:68   polystyrene:73   polystyrene:72
+polystyrene:67   polystyrene:68   polystyrene:73   polystyrene:81
+polystyrene:67   polystyrene:82   polystyrene:83   polystyrene:84
+polystyrene:67   polystyrene:82   polystyrene:83   polystyrene:92
+polystyrene:67   polystyrene:82   polystyrene:83   polystyrene:98
+polystyrene:68   polystyrene:67   polystyrene:66   polystyrene:74
+polystyrene:68   polystyrene:67   polystyrene:66   polystyrene:75
+polystyrene:68   polystyrene:67   polystyrene:82   polystyrene:83
+polystyrene:68   polystyrene:67   polystyrene:82   polystyrene:90
+polystyrene:68   polystyrene:67   polystyrene:82   polystyrene:91
+polystyrene:68   polystyrene:69   polystyrene:70   polystyrene:71
+polystyrene:68   polystyrene:69   polystyrene:70   polystyrene:78
+polystyrene:68   polystyrene:73   polystyrene:72   polystyrene:80
+polystyrene:69   polystyrene:68   polystyrene:67   polystyrene:76
+polystyrene:69   polystyrene:68   polystyrene:67   polystyrene:82
+polystyrene:69   polystyrene:68   polystyrene:73   polystyrene:72
+polystyrene:69   polystyrene:68   polystyrene:73   polystyrene:81
+polystyrene:69   polystyrene:70   polystyrene:71   polystyrene:72
+polystyrene:69   polystyrene:70   polystyrene:71   polystyrene:79
+polystyrene:70   polystyrene:69   polystyrene:68   polystyrene:73
+polystyrene:70   polystyrene:71   polystyrene:72   polystyrene:73
+polystyrene:70   polystyrene:71   polystyrene:72   polystyrene:80
+polystyrene:71   polystyrene:70   polystyrene:69   polystyrene:77
+polystyrene:71   polystyrene:72   polystyrene:73   polystyrene:68
+polystyrene:71   polystyrene:72   polystyrene:73   polystyrene:81
+polystyrene:72   polystyrene:71   polystyrene:70   polystyrene:78
+polystyrene:73   polystyrene:68   polystyrene:67   polystyrene:76
+polystyrene:73   polystyrene:68   polystyrene:67   polystyrene:82
+polystyrene:73   polystyrene:68   polystyrene:69   polystyrene:77
+polystyrene:73   polystyrene:72   polystyrene:71   polystyrene:79
+polystyrene:74   polystyrene:66   polystyrene:67   polystyrene:76
+polystyrene:74   polystyrene:66   polystyrene:67   polystyrene:82
+polystyrene:75   polystyrene:66   polystyrene:67   polystyrene:76
+polystyrene:75   polystyrene:66   polystyrene:67   polystyrene:82
+polystyrene:76   polystyrene:67   polystyrene:82   polystyrene:83
+polystyrene:76   polystyrene:67   polystyrene:82   polystyrene:90
+polystyrene:76   polystyrene:67   polystyrene:82   polystyrene:91
+polystyrene:77   polystyrene:69   polystyrene:70   polystyrene:78
+polystyrene:78   polystyrene:70   polystyrene:71   polystyrene:79
+polystyrene:79   polystyrene:71   polystyrene:72   polystyrene:80
+polystyrene:80   polystyrene:72   polystyrene:73   polystyrene:81
+polystyrene:82   polystyrene:83   polystyrene:84   polystyrene:85
+polystyrene:82   polystyrene:83   polystyrene:84   polystyrene:89
+polystyrene:82   polystyrene:83   polystyrene:98   polystyrene:99
+polystyrene:82   polystyrene:83   polystyrene:98   polystyrene:106
+polystyrene:82   polystyrene:83   polystyrene:98   polystyrene:107
+polystyrene:83   polystyrene:84   polystyrene:85   polystyrene:86
+polystyrene:83   polystyrene:84   polystyrene:85   polystyrene:93
+polystyrene:83   polystyrene:84   polystyrene:89   polystyrene:88
+polystyrene:83   polystyrene:84   polystyrene:89   polystyrene:97
+polystyrene:83   polystyrene:98   polystyrene:99   polystyrene:100
+polystyrene:83   polystyrene:98   polystyrene:99   polystyrene:108
+polystyrene:83   polystyrene:98   polystyrene:99   polystyrene:114
+polystyrene:84   polystyrene:83   polystyrene:82   polystyrene:90
+polystyrene:84   polystyrene:83   polystyrene:82   polystyrene:91
+polystyrene:84   polystyrene:83   polystyrene:98   polystyrene:99
+polystyrene:84   polystyrene:83   polystyrene:98   polystyrene:106
+polystyrene:84   polystyrene:83   polystyrene:98   polystyrene:107
+polystyrene:84   polystyrene:85   polystyrene:86   polystyrene:87
+polystyrene:84   polystyrene:85   polystyrene:86   polystyrene:94
+polystyrene:84   polystyrene:89   polystyrene:88   polystyrene:96
+polystyrene:85   polystyrene:84   polystyrene:83   polystyrene:92
+polystyrene:85   polystyrene:84   polystyrene:83   polystyrene:98
+polystyrene:85   polystyrene:84   polystyrene:89   polystyrene:88
+polystyrene:85   polystyrene:84   polystyrene:89   polystyrene:97
+polystyrene:85   polystyrene:86   polystyrene:87   polystyrene:88
+polystyrene:85   polystyrene:86   polystyrene:87   polystyrene:95
+polystyrene:86   polystyrene:85   polystyrene:84   polystyrene:89
+polystyrene:86   polystyrene:87   polystyrene:88   polystyrene:89
+polystyrene:86   polystyrene:87   polystyrene:88   polystyrene:96
+polystyrene:87   polystyrene:86   polystyrene:85   polystyrene:93
+polystyrene:87   polystyrene:88   polystyrene:89   polystyrene:84
+polystyrene:87   polystyrene:88   polystyrene:89   polystyrene:97
+polystyrene:88   polystyrene:87   polystyrene:86   polystyrene:94
+polystyrene:89   polystyrene:84   polystyrene:83   polystyrene:92
+polystyrene:89   polystyrene:84   polystyrene:83   polystyrene:98
+polystyrene:89   polystyrene:84   polystyrene:85   polystyrene:93
+polystyrene:89   polystyrene:88   polystyrene:87   polystyrene:95
+polystyrene:90   polystyrene:82   polystyrene:83   polystyrene:92
+polystyrene:90   polystyrene:82   polystyrene:83   polystyrene:98
+polystyrene:91   polystyrene:82   polystyrene:83   polystyrene:92
+polystyrene:91   polystyrene:82   polystyrene:83   polystyrene:98
+polystyrene:92   polystyrene:83   polystyrene:98   polystyrene:99
+polystyrene:92   polystyrene:83   polystyrene:98   polystyrene:106
+polystyrene:92   polystyrene:83   polystyrene:98   polystyrene:107
+polystyrene:93   polystyrene:85   polystyrene:86   polystyrene:94
+polystyrene:94   polystyrene:86   polystyrene:87   polystyrene:95
+polystyrene:95   polystyrene:87   polystyrene:88   polystyrene:96
+polystyrene:96   polystyrene:88   polystyrene:89   polystyrene:97
+polystyrene:98   polystyrene:99   polystyrene:100   polystyrene:101
+polystyrene:98   polystyrene:99   polystyrene:100   polystyrene:105
+polystyrene:98   polystyrene:99   polystyrene:114   polystyrene:115
+polystyrene:98   polystyrene:99   polystyrene:114   polystyrene:122
+polystyrene:98   polystyrene:99   polystyrene:114   polystyrene:123
+polystyrene:99   polystyrene:100   polystyrene:101   polystyrene:102
+polystyrene:99   polystyrene:100   polystyrene:101   polystyrene:109
+polystyrene:99   polystyrene:100   polystyrene:105   polystyrene:104
+polystyrene:99   polystyrene:100   polystyrene:105   polystyrene:113
+polystyrene:99   polystyrene:114   polystyrene:115   polystyrene:116
+polystyrene:99   polystyrene:114   polystyrene:115   polystyrene:124
+polystyrene:99   polystyrene:114   polystyrene:115   polystyrene:130
+polystyrene:100   polystyrene:99   polystyrene:98   polystyrene:106
+polystyrene:100   polystyrene:99   polystyrene:98   polystyrene:107
+polystyrene:100   polystyrene:99   polystyrene:114   polystyrene:115
+polystyrene:100   polystyrene:99   polystyrene:114   polystyrene:122
+polystyrene:100   polystyrene:99   polystyrene:114   polystyrene:123
+polystyrene:100   polystyrene:101   polystyrene:102   polystyrene:103
+polystyrene:100   polystyrene:101   polystyrene:102   polystyrene:110
+polystyrene:100   polystyrene:105   polystyrene:104   polystyrene:112
+polystyrene:101   polystyrene:100   polystyrene:99   polystyrene:108
+polystyrene:101   polystyrene:100   polystyrene:99   polystyrene:114
+polystyrene:101   polystyrene:100   polystyrene:105   polystyrene:104
+polystyrene:101   polystyrene:100   polystyrene:105   polystyrene:113
+polystyrene:101   polystyrene:102   polystyrene:103   polystyrene:104
+polystyrene:101   polystyrene:102   polystyrene:103   polystyrene:111
+polystyrene:102   polystyrene:101   polystyrene:100   polystyrene:105
+polystyrene:102   polystyrene:103   polystyrene:104   polystyrene:105
+polystyrene:102   polystyrene:103   polystyrene:104   polystyrene:112
+polystyrene:103   polystyrene:102   polystyrene:101   polystyrene:109
+polystyrene:103   polystyrene:104   polystyrene:105   polystyrene:100
+polystyrene:103   polystyrene:104   polystyrene:105   polystyrene:113
+polystyrene:104   polystyrene:103   polystyrene:102   polystyrene:110
+polystyrene:105   polystyrene:100   polystyrene:99   polystyrene:108
+polystyrene:105   polystyrene:100   polystyrene:99   polystyrene:114
+polystyrene:105   polystyrene:100   polystyrene:101   polystyrene:109
+polystyrene:105   polystyrene:104   polystyrene:103   polystyrene:111
+polystyrene:106   polystyrene:98   polystyrene:99   polystyrene:108
+polystyrene:106   polystyrene:98   polystyrene:99   polystyrene:114
+polystyrene:107   polystyrene:98   polystyrene:99   polystyrene:108
+polystyrene:107   polystyrene:98   polystyrene:99   polystyrene:114
+polystyrene:108   polystyrene:99   polystyrene:114   polystyrene:115
+polystyrene:108   polystyrene:99   polystyrene:114   polystyrene:122
+polystyrene:108   polystyrene:99   polystyrene:114   polystyrene:123
+polystyrene:109   polystyrene:101   polystyrene:102   polystyrene:110
+polystyrene:110   polystyrene:102   polystyrene:103   polystyrene:111
+polystyrene:111   polystyrene:103   polystyrene:104   polystyrene:112
+polystyrene:112   polystyrene:104   polystyrene:105   polystyrene:113
+polystyrene:114   polystyrene:115   polystyrene:116   polystyrene:117
+polystyrene:114   polystyrene:115   polystyrene:116   polystyrene:121
+polystyrene:114   polystyrene:115   polystyrene:130   polystyrene:131
+polystyrene:114   polystyrene:115   polystyrene:130   polystyrene:138
+polystyrene:114   polystyrene:115   polystyrene:130   polystyrene:139
+polystyrene:115   polystyrene:116   polystyrene:117   polystyrene:118
+polystyrene:115   polystyrene:116   polystyrene:117   polystyrene:125
+polystyrene:115   polystyrene:116   polystyrene:121   polystyrene:120
+polystyrene:115   polystyrene:116   polystyrene:121   polystyrene:129
+polystyrene:115   polystyrene:130   polystyrene:131   polystyrene:132
+polystyrene:115   polystyrene:130   polystyrene:131   polystyrene:140
+polystyrene:115   polystyrene:130   polystyrene:131   polystyrene:146
+polystyrene:116   polystyrene:115   polystyrene:114   polystyrene:122
+polystyrene:116   polystyrene:115   polystyrene:114   polystyrene:123
+polystyrene:116   polystyrene:115   polystyrene:130   polystyrene:131
+polystyrene:116   polystyrene:115   polystyrene:130   polystyrene:138
+polystyrene:116   polystyrene:115   polystyrene:130   polystyrene:139
+polystyrene:116   polystyrene:117   polystyrene:118   polystyrene:119
+polystyrene:116   polystyrene:117   polystyrene:118   polystyrene:126
+polystyrene:116   polystyrene:121   polystyrene:120   polystyrene:128
+polystyrene:117   polystyrene:116   polystyrene:115   polystyrene:124
+polystyrene:117   polystyrene:116   polystyrene:115   polystyrene:130
+polystyrene:117   polystyrene:116   polystyrene:121   polystyrene:120
+polystyrene:117   polystyrene:116   polystyrene:121   polystyrene:129
+polystyrene:117   polystyrene:118   polystyrene:119   polystyrene:120
+polystyrene:117   polystyrene:118   polystyrene:119   polystyrene:127
+polystyrene:118   polystyrene:117   polystyrene:116   polystyrene:121
+polystyrene:118   polystyrene:119   polystyrene:120   polystyrene:121
+polystyrene:118   polystyrene:119   polystyrene:120   polystyrene:128
+polystyrene:119   polystyrene:118   polystyrene:117   polystyrene:125
+polystyrene:119   polystyrene:120   polystyrene:121   polystyrene:116
+polystyrene:119   polystyrene:120   polystyrene:121   polystyrene:129
+polystyrene:120   polystyrene:119   polystyrene:118   polystyrene:126
+polystyrene:121   polystyrene:116   polystyrene:115   polystyrene:124
+polystyrene:121   polystyrene:116   polystyrene:115   polystyrene:130
+polystyrene:121   polystyrene:116   polystyrene:117   polystyrene:125
+polystyrene:121   polystyrene:120   polystyrene:119   polystyrene:127
+polystyrene:122   polystyrene:114   polystyrene:115   polystyrene:124
+polystyrene:122   polystyrene:114   polystyrene:115   polystyrene:130
+polystyrene:123   polystyrene:114   polystyrene:115   polystyrene:124
+polystyrene:123   polystyrene:114   polystyrene:115   polystyrene:130
+polystyrene:124   polystyrene:115   polystyrene:130   polystyrene:131
+polystyrene:124   polystyrene:115   polystyrene:130   polystyrene:138
+polystyrene:124   polystyrene:115   polystyrene:130   polystyrene:139
+polystyrene:125   polystyrene:117   polystyrene:118   polystyrene:126
+polystyrene:126   polystyrene:118   polystyrene:119   polystyrene:127
+polystyrene:127   polystyrene:119   polystyrene:120   polystyrene:128
+polystyrene:128   polystyrene:120   polystyrene:121   polystyrene:129
+polystyrene:130   polystyrene:131   polystyrene:132   polystyrene:133
+polystyrene:130   polystyrene:131   polystyrene:132   polystyrene:137
+polystyrene:130   polystyrene:131   polystyrene:146   polystyrene:147
+polystyrene:130   polystyrene:131   polystyrene:146   polystyrene:154
+polystyrene:130   polystyrene:131   polystyrene:146   polystyrene:155
+polystyrene:131   polystyrene:132   polystyrene:133   polystyrene:134
+polystyrene:131   polystyrene:132   polystyrene:133   polystyrene:141
+polystyrene:131   polystyrene:132   polystyrene:137   polystyrene:136
+polystyrene:131   polystyrene:132   polystyrene:137   polystyrene:145
+polystyrene:131   polystyrene:146   polystyrene:147   polystyrene:148
+polystyrene:131   polystyrene:146   polystyrene:147   polystyrene:156
+polystyrene:131   polystyrene:146   polystyrene:147   polystyrene:162
+polystyrene:132   polystyrene:131   polystyrene:130   polystyrene:138
+polystyrene:132   polystyrene:131   polystyrene:130   polystyrene:139
+polystyrene:132   polystyrene:131   polystyrene:146   polystyrene:147
+polystyrene:132   polystyrene:131   polystyrene:146   polystyrene:154
+polystyrene:132   polystyrene:131   polystyrene:146   polystyrene:155
+polystyrene:132   polystyrene:133   polystyrene:134   polystyrene:135
+polystyrene:132   polystyrene:133   polystyrene:134   polystyrene:142
+polystyrene:132   polystyrene:137   polystyrene:136   polystyrene:144
+polystyrene:133   polystyrene:132   polystyrene:131   polystyrene:140
+polystyrene:133   polystyrene:132   polystyrene:131   polystyrene:146
+polystyrene:133   polystyrene:132   polystyrene:137   polystyrene:136
+polystyrene:133   polystyrene:132   polystyrene:137   polystyrene:145
+polystyrene:133   polystyrene:134   polystyrene:135   polystyrene:136
+polystyrene:133   polystyrene:134   polystyrene:135   polystyrene:143
+polystyrene:134   polystyrene:133   polystyrene:132   polystyrene:137
+polystyrene:134   polystyrene:135   polystyrene:136   polystyrene:137
+polystyrene:134   polystyrene:135   polystyrene:136   polystyrene:144
+polystyrene:135   polystyrene:134   polystyrene:133   polystyrene:141
+polystyrene:135   polystyrene:136   polystyrene:137   polystyrene:132
+polystyrene:135   polystyrene:136   polystyrene:137   polystyrene:145
+polystyrene:136   polystyrene:135   polystyrene:134   polystyrene:142
+polystyrene:137   polystyrene:132   polystyrene:131   polystyrene:140
+polystyrene:137   polystyrene:132   polystyrene:131   polystyrene:146
+polystyrene:137   polystyrene:132   polystyrene:133   polystyrene:141
+polystyrene:137   polystyrene:136   polystyrene:135   polystyrene:143
+polystyrene:138   polystyrene:130   polystyrene:131   polystyrene:140
+polystyrene:138   polystyrene:130   polystyrene:131   polystyrene:146
+polystyrene:139   polystyrene:130   polystyrene:131   polystyrene:140
+polystyrene:139   polystyrene:130   polystyrene:131   polystyrene:146
+polystyrene:140   polystyrene:131   polystyrene:146   polystyrene:147
+polystyrene:140   polystyrene:131   polystyrene:146   polystyrene:154
+polystyrene:140   polystyrene:131   polystyrene:146   polystyrene:155
+polystyrene:141   polystyrene:133   polystyrene:134   polystyrene:142
+polystyrene:142   polystyrene:134   polystyrene:135   polystyrene:143
+polystyrene:143   polystyrene:135   polystyrene:136   polystyrene:144
+polystyrene:144   polystyrene:136   polystyrene:137   polystyrene:145
+polystyrene:146   polystyrene:147   polystyrene:148   polystyrene:149
+polystyrene:146   polystyrene:147   polystyrene:148   polystyrene:153
+polystyrene:147   polystyrene:148   polystyrene:149   polystyrene:150
+polystyrene:147   polystyrene:148   polystyrene:149   polystyrene:157
+polystyrene:147   polystyrene:148   polystyrene:153   polystyrene:152
+polystyrene:147   polystyrene:148   polystyrene:153   polystyrene:161
+polystyrene:148   polystyrene:147   polystyrene:146   polystyrene:154
+polystyrene:148   polystyrene:147   polystyrene:146   polystyrene:155
+polystyrene:148   polystyrene:149   polystyrene:150   polystyrene:151
+polystyrene:148   polystyrene:149   polystyrene:150   polystyrene:158
+polystyrene:148   polystyrene:153   polystyrene:152   polystyrene:160
+polystyrene:149   polystyrene:148   polystyrene:147   polystyrene:156
+polystyrene:149   polystyrene:148   polystyrene:147   polystyrene:162
+polystyrene:149   polystyrene:148   polystyrene:153   polystyrene:152
+polystyrene:149   polystyrene:148   polystyrene:153   polystyrene:161
+polystyrene:149   polystyrene:150   polystyrene:151   polystyrene:152
+polystyrene:149   polystyrene:150   polystyrene:151   polystyrene:159
+polystyrene:150   polystyrene:149   polystyrene:148   polystyrene:153
+polystyrene:150   polystyrene:151   polystyrene:152   polystyrene:153
+polystyrene:150   polystyrene:151   polystyrene:152   polystyrene:160
+polystyrene:151   polystyrene:150   polystyrene:149   polystyrene:157
+polystyrene:151   polystyrene:152   polystyrene:153   polystyrene:148
+polystyrene:151   polystyrene:152   polystyrene:153   polystyrene:161
+polystyrene:152   polystyrene:151   polystyrene:150   polystyrene:158
+polystyrene:153   polystyrene:148   polystyrene:147   polystyrene:156
+polystyrene:153   polystyrene:148   polystyrene:147   polystyrene:162
+polystyrene:153   polystyrene:148   polystyrene:149   polystyrene:157
+polystyrene:153   polystyrene:152   polystyrene:151   polystyrene:159
+polystyrene:154   polystyrene:146   polystyrene:147   polystyrene:156
+polystyrene:154   polystyrene:146   polystyrene:147   polystyrene:162
+polystyrene:155   polystyrene:146   polystyrene:147   polystyrene:156
+polystyrene:155   polystyrene:146   polystyrene:147   polystyrene:162
+polystyrene:157   polystyrene:149   polystyrene:150   polystyrene:158
+polystyrene:158   polystyrene:150   polystyrene:151   polystyrene:159
+polystyrene:159   polystyrene:151   polystyrene:152   polystyrene:160
+polystyrene:160   polystyrene:152   polystyrene:153   polystyrene:161
+</beads>
+</dihedral>
+</bonded>
+</topology>
